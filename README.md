@@ -1,4 +1,4 @@
-### Hello world, I'm Arhant. Welcome to my Github profile! 
+### Hello world, I'm Arhant. Thanks for checking my Github profile! 
 
 ### Skills
 - **Software Development**: Git, C++, Java, Javascript, HTML, CSS
