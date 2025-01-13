@@ -1,8 +1,8 @@
 ### Hello world, I'm Arhant. Thanks for checking my Github profile! 
 
 ### Skills
-- **Software Development**: Git, C++, Java, Javascript, HTML, CSS
-- **Embedded Systems**: RaspberryPi and Python
+- **Software Development**: Git, C++, Java, Javascript, HTML, CSS, Python
+- **Embedded Systems**: RaspberryPi with Python, C
 - **Machine Learning and Data Science**: Pytorch, Numpy, Pandas, Neural Networks, Reinforcement Learning
 
 <!--
